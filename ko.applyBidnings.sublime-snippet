@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ko.applyBindings(${1:vm}, ${2:element});]]></content>
+	<tabTrigger>ko.apply</tabTrigger>
+	<scope>source.js</scope>
+	<description>kockoutjs apply bindings</description>
+</snippet>

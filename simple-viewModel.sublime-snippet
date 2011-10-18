@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[var vm = new function() {
+		${1:this.foo = ko.observable();}$0
+	};]]></content>
+	<tabTrigger>ko.vm</tabTrigger>
+	<scope>source.js</scope>
+	<description>simple kockoutjs viewModel</description>
+</snippet>
