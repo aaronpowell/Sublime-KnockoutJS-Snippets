@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ko.dependentObserable(function() \{
+	<content><![CDATA[ko.dependentObservable(function() \{
 	$0
 \}, ${1:this});]]></content>
 	<tabTrigger>ko.dep</tabTrigger>
