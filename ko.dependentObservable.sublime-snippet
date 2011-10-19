@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[ko.dependentObserable(function() \{
-		$0
-	\}, ${1:this});]]></content>
+	$0
+\}, ${1:this});]]></content>
 	<tabTrigger>ko.dep</tabTrigger>
 	<scope>source.js</scope>
 	<description>kockoutjs dependent observable</description>
