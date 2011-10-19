@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<${2:ul} data-bind="foreach: ${1:foo}$0">
+	${3:<${4:li} ${5:data-bind="text: ${6:bar}">&nbsp;</li>}
+</${2:ul}>]]></content>
+	<tabTrigger>ko.foreach</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>ForEach template for KnockoutJS</description>
+</snippet>
