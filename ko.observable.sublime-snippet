@@ -2,5 +2,5 @@
 	<content><![CDATA[ko.observable($0);]]></content>
 	<tabTrigger>ko.o</tabTrigger>
 	<scope>source.js</scope>
-	<description>kockoutjs observable</description>
+	<description>knockoutjs observable</description>
 </snippet>

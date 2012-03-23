@@ -4,5 +4,5 @@
 	};]]></content>
 	<tabTrigger>ko.vm</tabTrigger>
 	<scope>source.js</scope>
-	<description>simple kockoutjs viewModel</description>
+	<description>simple knockoutjs viewModel</description>
 </snippet>
