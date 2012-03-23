@@ -4,5 +4,5 @@
 \}, ${1:this});]]></content>
 	<tabTrigger>ko.dep</tabTrigger>
 	<scope>source.js</scope>
-	<description>kockoutjs dependent observable</description>
+	<description>knockoutjs dependent observable</description>
 </snippet>
